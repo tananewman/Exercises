@@ -1,0 +1,7 @@
+C:\Users\tanan\source\repos\CompareArrays\CompareArrays\bin\Debug\CompareArrays.exe.config
+C:\Users\tanan\source\repos\CompareArrays\CompareArrays\bin\Debug\CompareArrays.exe
+C:\Users\tanan\source\repos\CompareArrays\CompareArrays\bin\Debug\CompareArrays.pdb
+C:\Users\tanan\source\repos\CompareArrays\CompareArrays\obj\Debug\CompareArrays.csprojAssemblyReference.cache
+C:\Users\tanan\source\repos\CompareArrays\CompareArrays\obj\Debug\CompareArrays.csproj.CoreCompileInputs.cache
+C:\Users\tanan\source\repos\CompareArrays\CompareArrays\obj\Debug\CompareArrays.exe
+C:\Users\tanan\source\repos\CompareArrays\CompareArrays\obj\Debug\CompareArrays.pdb

@@ -1,0 +1,7 @@
+C:\Users\tanan\source\repos\Power\Power\bin\Debug\Power.exe.config
+C:\Users\tanan\source\repos\Power\Power\bin\Debug\Power.exe
+C:\Users\tanan\source\repos\Power\Power\bin\Debug\Power.pdb
+C:\Users\tanan\source\repos\Power\Power\obj\Debug\Power.csprojAssemblyReference.cache
+C:\Users\tanan\source\repos\Power\Power\obj\Debug\Power.csproj.CoreCompileInputs.cache
+C:\Users\tanan\source\repos\Power\Power\obj\Debug\Power.exe
+C:\Users\tanan\source\repos\Power\Power\obj\Debug\Power.pdb

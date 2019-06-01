@@ -1,0 +1,13 @@
+﻿  FileReader.C
+c:\users\tanan\source\repos\filereader\filereader\filereader.c(47): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\tanan\source\repos\filereader\filereader\filereader.c(48): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\tanan\source\repos\filereader\filereader\filereader.c(50): warning C4013: 'Power' undefined; assuming extern returning int
+c:\users\tanan\source\repos\filereader\filereader\filereader.c(52): warning C4013: 'prtinf' undefined; assuming extern returning int
+c:\users\tanan\source\repos\filereader\filereader\filereader.c(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\tanan\source\repos\filereader\filereader\filereader.c(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\tanan\source\repos\filereader\filereader\filereader.c(47): warning C4700: uninitialized local variable 'm' used
+c:\users\tanan\source\repos\filereader\filereader\filereader.c(48): warning C4700: uninitialized local variable 'n' used
+FileReader.obj : error LNK2019: unresolved external symbol _prtinf referenced in function _main
+C:\Users\tanan\source\repos\FileReader\Debug\FileReader.exe : fatal error LNK1120: 1 unresolved externals

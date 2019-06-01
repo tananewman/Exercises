@@ -1,0 +1,11 @@
+C:\Users\tanan\source\repos\FindMinAndMaxInArray\FindMinAndMaxInArray\bin\Debug\netcoreapp2.1\FindMinAndMaxInArray.deps.json
+C:\Users\tanan\source\repos\FindMinAndMaxInArray\FindMinAndMaxInArray\bin\Debug\netcoreapp2.1\FindMinAndMaxInArray.runtimeconfig.json
+C:\Users\tanan\source\repos\FindMinAndMaxInArray\FindMinAndMaxInArray\bin\Debug\netcoreapp2.1\FindMinAndMaxInArray.runtimeconfig.dev.json
+C:\Users\tanan\source\repos\FindMinAndMaxInArray\FindMinAndMaxInArray\bin\Debug\netcoreapp2.1\FindMinAndMaxInArray.dll
+C:\Users\tanan\source\repos\FindMinAndMaxInArray\FindMinAndMaxInArray\bin\Debug\netcoreapp2.1\FindMinAndMaxInArray.pdb
+C:\Users\tanan\source\repos\FindMinAndMaxInArray\FindMinAndMaxInArray\obj\Debug\netcoreapp2.1\FindMinAndMaxInArray.csproj.CoreCompileInputs.cache
+C:\Users\tanan\source\repos\FindMinAndMaxInArray\FindMinAndMaxInArray\obj\Debug\netcoreapp2.1\FindMinAndMaxInArray.AssemblyInfoInputs.cache
+C:\Users\tanan\source\repos\FindMinAndMaxInArray\FindMinAndMaxInArray\obj\Debug\netcoreapp2.1\FindMinAndMaxInArray.AssemblyInfo.cs
+C:\Users\tanan\source\repos\FindMinAndMaxInArray\FindMinAndMaxInArray\obj\Debug\netcoreapp2.1\FindMinAndMaxInArray.dll
+C:\Users\tanan\source\repos\FindMinAndMaxInArray\FindMinAndMaxInArray\obj\Debug\netcoreapp2.1\FindMinAndMaxInArray.pdb
+C:\Users\tanan\source\repos\FindMinAndMaxInArray\FindMinAndMaxInArray\obj\Debug\netcoreapp2.1\FindMinAndMaxInArray.csprojAssemblyReference.cache

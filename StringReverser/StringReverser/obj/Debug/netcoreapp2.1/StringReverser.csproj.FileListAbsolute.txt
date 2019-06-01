@@ -1,0 +1,11 @@
+C:\Users\tanan\source\repos\StringReverser\StringReverser\bin\Debug\netcoreapp2.1\StringReverser.deps.json
+C:\Users\tanan\source\repos\StringReverser\StringReverser\bin\Debug\netcoreapp2.1\StringReverser.runtimeconfig.json
+C:\Users\tanan\source\repos\StringReverser\StringReverser\bin\Debug\netcoreapp2.1\StringReverser.runtimeconfig.dev.json
+C:\Users\tanan\source\repos\StringReverser\StringReverser\bin\Debug\netcoreapp2.1\StringReverser.dll
+C:\Users\tanan\source\repos\StringReverser\StringReverser\bin\Debug\netcoreapp2.1\StringReverser.pdb
+C:\Users\tanan\source\repos\StringReverser\StringReverser\obj\Debug\netcoreapp2.1\StringReverser.csprojAssemblyReference.cache
+C:\Users\tanan\source\repos\StringReverser\StringReverser\obj\Debug\netcoreapp2.1\StringReverser.csproj.CoreCompileInputs.cache
+C:\Users\tanan\source\repos\StringReverser\StringReverser\obj\Debug\netcoreapp2.1\StringReverser.AssemblyInfoInputs.cache
+C:\Users\tanan\source\repos\StringReverser\StringReverser\obj\Debug\netcoreapp2.1\StringReverser.AssemblyInfo.cs
+C:\Users\tanan\source\repos\StringReverser\StringReverser\obj\Debug\netcoreapp2.1\StringReverser.dll
+C:\Users\tanan\source\repos\StringReverser\StringReverser\obj\Debug\netcoreapp2.1\StringReverser.pdb
